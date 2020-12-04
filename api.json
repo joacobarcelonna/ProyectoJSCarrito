@@ -1,0 +1,112 @@
+[
+    {
+      "precio": 100,
+      "id": 1,
+      "title": "Alakazam",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/1.png"
+    },
+    {
+      "precio": 4000,
+      "id": 2,
+      "title": "Blastoise",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/2.png"
+    },
+    {
+      "precio": 5000,
+      "id": 3,
+      "title": "Chansey",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/3.png"
+    },
+    {
+      "precio": 50000,
+      "id": 4,
+      "title": "Charizard",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/4.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Clefairy",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/5.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Gyarados",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/6.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Hitmo",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/7.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Machamp",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/8.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Magneton",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/9.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Mewtwo",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/10.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Nidoking",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/11.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Ninetales",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/12.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Poliwat",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/13.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Raichu",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/14.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Venusur",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/15.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Zapdos",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/16.png"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Beedrill",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/17.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Dragonair",
+      "thumbnailUrl": "https://images.pokemontcg.io/base1/18.png"
+    }
+    
+  ]
+  
