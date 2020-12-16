@@ -14,8 +14,8 @@ let contador = 0;
 
 document.addEventListener('DOMContentLoaded', () =>{
     fetchData()
-    if(localStorage.getItem('carrrito')){
-        carrito = JSON.parse(localStorage.getItem('carrrito'))
+    if(localStorage.getItem('carrito')){
+        carrito = JSON.parse(localStorage.getItem('carrito'))
         pintarCarrito()
     }
 } )
@@ -148,3 +148,5 @@ const btnAccion = e => {
 
     e.stopPropagation()
 }
+
+
